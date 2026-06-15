@@ -10,7 +10,7 @@
     "url": "https://github.com/steven-pribilinskiy/vscode-symbol-case-renamer.git"
   },
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.109.0"
   },
   "categories": [
     "Formatters"
@@ -56,7 +56,7 @@
         "title": "Rename Symbol to CONSTANT_CASE"
       },
       {
-        "command": "symbol-case-renamer.reanmeToAdaCase",
+        "command": "symbol-case-renamer.renameToAdaCase",
         "title": "Rename Symbol to Ada_Case"
       }
     ]
